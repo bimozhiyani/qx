@@ -3,7 +3,6 @@ host, sdyun.cc, proxy
 host-suffix, emby.wtf, direct
 host, emby.o3k.cc, proxy
 host, youtu.be, 视频
-ip-cidr, 5.28.194.200/24, TG分流
 host, iacg.blog, proxy
 host, 10dian-7.com, proxy
 host, data.flurry.com, reject
