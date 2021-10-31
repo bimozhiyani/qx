@@ -1,0 +1,68 @@
+host-keyword, jp, proxy
+host, www.manhuagui.com, proxy
+host, sdyun.cc, proxy
+host-suffix, emby.wtf, direct
+host, emby.o3k.cc, proxy
+host, youtu.be, 视频
+ip-cidr, 5.28.194.200/24, TG分流
+host, iacg.blog, proxy
+host, 10dian-7.com, proxy
+host, data.flurry.com, reject
+host, nfxhd.com, direct
+host, tv.ci, direct
+host, 75maohh.com, proxy
+host, pinpoint.us-east-1.amazonaws.com, proxy
+host, opt.cn2qq.com, proxy
+host, www.epicgames.com, proxy
+ip-cidr, 203.107.1.1/24, reject
+host, jd.turinglabs.net, direct
+host, discord.com, proxy
+host, click.discord.com, proxy
+host, www.naeu.playblackdesert.com, 美国
+host, ow.ly, proxy
+host, www.downloadtwittervideo.com, proxy
+host, vip4.ddyunbo.com, proxy
+host, paoluz.link, proxy
+host, jdsharedresourcescdn.azureedge.net, 🌏 国外网站
+host-suffix, emby.nexitally.com, 📺 Netflix
+host, emby.cjpc.xyz, 视频
+host, emby-aga.cjpc.xyz, 视频
+host, embywiki.911997.xyz, 🌏 国外网站
+host-suffix, emby.otakudrive.life, 香港
+host, ntt1.jmsooo.com, 视频
+host, www.m3u8play.com, 视频
+host-suffix, hinet.net, 台湾
+host-suffix, gamer.com.tw, 台湾
+host-suffix, bahamut.com.tw, 台湾
+host, gamer2-cds.cdn.hinet.net, 台湾
+host, gamer-cds.cdn.hinet.net, 台湾
+user-agent, Anime*, 台湾
+host, www.tw.playblackdesert.com, proxy
+host, www.gitbook.com, 🌏 国外网站
+host, agajp1.jmsooo.com, 视频
+host, www5.javmost.com, 视频
+host, download.maxmind.com, direct
+host, livehdcams.com, 💻 国外影视
+host, api.fast.com, 视频
+host, www.nfmovies.com, direct
+host, api.turinglabs.net, 🌏 国外网站
+host, static.maxmind.com, proxy
+host, blog.maxmind.com, direct
+host, gblobscdn.gitbook.com, proxy
+host, cf1.jmsooo.com, 视频
+host, m.happymh.com, proxy
+host, m.manhuagui.com, proxy
+host, fast.com, 视频
+host, bianyuan.xyz, direct
+host, i.pximg.net, proxy
+host, www.redditstatic.com, proxy
+host, git.io, proxy
+host, imomoe.54647.online, reject
+host, imomoe.54647.online, reject
+host, web.ytxe8.xyz, reject
+host, javdb.com, proxy
+host, opgg-static.akamaized.net, direct
+host, attach.s.op.gg, proxy
+host, www.op.gg, proxy
+host, m.imomoe.ai, direct
+host-suffix, music.126.net, direct
